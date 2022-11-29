@@ -1,5 +1,14 @@
 
-=============== 28 Nov codes =========================
+
+=============== 27 Nov codes ==================================================================
+
+zensar_27_Nov_demo_1    : "Give the JVM Architecture in detail"
+zensar_27_Nov_demo_2    : "Write a Java class to demonstrate the use of Arithmetic operators"
+zensar_27_Nov_demo_3    : "Write a Java class to demonstrate the Assignment operators"
+zensar_27_Nov_demo_4    : "Write a Java class to demonstrate use of relational operators"
+zensar_27_Nov_demo_5    : "Write a Java class to demonstrate use of logical operators"
+
+=============== 28 Nov codes ==================================================================
 
 zensar_28_Nov_demo_1    : "Taking Input"
 zensar_28_Nov_demo_2    : "Taking Input"
@@ -8,4 +17,4 @@ zensar_28_Nov_demo_4    : "If ElseIf Statements"
 zensar_28_Nov_demo_4_2  : "If Else lader Statements"
 zensar_28_Nov_demo_5    : "Switch Statements"
 
-=======================================================
+===============================================================================================
