@@ -2,11 +2,11 @@
 
 =============== 27 Nov codes ==================================================================
 
-zensar_27_Nov_demo_1    : "Give the JVM Architecture in detail"
-zensar_27_Nov_demo_2    : "Write a Java class to demonstrate the use of Arithmetic operators"
-zensar_27_Nov_demo_3    : "Write a Java class to demonstrate the Assignment operators"
-zensar_27_Nov_demo_4    : "Write a Java class to demonstrate use of relational operators"
-zensar_27_Nov_demo_5    : "Write a Java class to demonstrate use of logical operators"
+zensar_27_Nov_Assg_1    : "Give the JVM Architecture in detail"
+zensar_27_Nov_Assg_2    : "Write a Java class to demonstrate the use of Arithmetic operators"
+zensar_27_Nov_Assg_3    : "Write a Java class to demonstrate the Assignment operators"
+zensar_27_Nov_Assg_4    : "Write a Java class to demonstrate use of relational operators"
+zensar_27_Nov_Assg_5    : "Write a Java class to demonstrate use of logical operators"
 
 =============== 28 Nov codes ==================================================================
 
@@ -17,4 +17,25 @@ zensar_28_Nov_demo_4    : "If ElseIf Statements"
 zensar_28_Nov_demo_4_2  : "If Else lader Statements"
 zensar_28_Nov_demo_5    : "Switch Statements"
 
-===============================================================================================
+=============== 29 Nov codes ==================================================================
+
+zensar_29_Nov_Assg_1    : "Write a java program to find the sum of 5 positive numbers.
+                           read the numbers from user. use for loop and scanner class"
+zensar_29_Nov_Assg_2    : "write a program to display n numbers using for loop.
+                           get the numbers from te user."
+zensar_29_Nov_Assg_3    : "program to find sum of natural numbers from 1 to 1000."
+zensar_29_Nov_Assg_4    : "Write a program to demonstrate use of break and continue keyword in java"
+zensar_29_Nov_Assg_5    : "Write a program to demonstrate use of nested for loop."
+
+--------------------------------------------------------------------------------------------------
+zensar_29_Nov_demo_1    : "for loop"
+zensar_29_Nov_demo_2    : "while loop"
+zensar_29_Nov_demo_2_1  : "Do while loop"
+zensar_29_Nov_demo_3    : "Break"
+zensar_29_Nov_demo_3_1  : "Continue"
+zensar_29_Nov_demo_4    : "Nested for loop"
+zensar_29_Nov_demo_4_1  : "Pattern"
+zensar_29_Nov_demo_4_2  : "Break in Nested fro loop"
+zensar_29_Nov_demo_4_3  : "Continue in Nested fro loop"
+
+===================================================================================================
