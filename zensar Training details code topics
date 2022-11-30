@@ -38,4 +38,13 @@ zensar_29_Nov_demo_4_1  : "Pattern"
 zensar_29_Nov_demo_4_2  : "Break in Nested fro loop"
 zensar_29_Nov_demo_4_3  : "Continue in Nested fro loop"
 
-===================================================================================================
+=============== 30 Nov codes ==================================================================
+
+zensar_30_Nov_demo_1    : "Array"
+zensar_30_Nov_demo_1_1  : "Traverse the Array"
+zensar_30_Nov_demo_1_2  : "Traverse the Array using for-each method"
+zensar_30_Nov_demo_2    : "Sum of all elements"
+zensar_30_Nov_demo_3    : "traversing 2 dimentional Array"
+zensar_30_Nov_demo_3_1  : "traversing 2 dimentional Array using for-each method "
+zensar_30_Nov_demo_4    : "3 dimentional Array"
+
